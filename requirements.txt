@@ -1,0 +1,12 @@
+text-generation
+langchain
+transformers
+runpod
+python-dotenv
+gradio
+scipy
+elevenlabs
+openai
+torch
+wandb
+word2number
